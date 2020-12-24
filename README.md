@@ -1,5 +1,5 @@
 # SHAP学习笔记
----
+
 ## 应用背景
 可解释工具可以帮助我们在特征工程当中筛选特征也可以在模型实际应用当中做出清晰的解释
 
@@ -21,7 +21,9 @@ SHAP具有三个理想的属性：局部准确性，确实性和一致性（具�
 
 ### 安装SHAP
 pip install shap
+
 or
+
 conda install -c conda-forge shap
 
 
